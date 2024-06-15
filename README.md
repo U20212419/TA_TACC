@@ -10,4 +10,6 @@
 
 ## Fuente
 
-Ministerio de Educación, "Literatura - Quechua central," 1ra ed. Lima, Perú, 2021. [En línea]. Disponible: https://cdn.www.gob.pe/uploads/document/file/5008300/literaratura-quechua-central.pdf?v=1692305602
+Ministerio de Educación, "Literatura - Quechua central", 1ra ed. Lima, Perú, 2021. [En línea]. Disponible: https://cdn.www.gob.pe/uploads/document/file/5008300/literaratura-quechua-central.pdf?v=1692305602
+
+Ministerio de Educación, "Historia y Relatos Quechua Central", 1ra ed. Lima, Perú, 2021. [En línea]. Disponible: https://cdn.www.gob.pe/uploads/document/file/5008262/historia-relatos-quechua-central.pdf?v=1692305602
